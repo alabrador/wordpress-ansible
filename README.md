@@ -1,2 +1,2 @@
 # wordpress-ansible
-Instalar wordpress con ansible
+Instalar wordpress con ansible + jenkins
